@@ -28,7 +28,7 @@
 <!-- 4. FUNNY GIF -->
 
 <p align="center">
-<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52aG9tZ216a2NnY2gyb3NmM2V3b2Z1a21tZzZ0a2p4a3JpZ3Q5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1heTFwMm1xcnk3Y3g5bWZja2VhNmVpNDlmeXltdWRneGc4Nm41cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)" alt="A cat typing on a laptop GIF" width="400"/>
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1heTFwMm1xcnk3Y3g5bWZja2VhNmVpNDlmeXltdWRneGc4Nm41cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="A cat typing on a laptop GIF" width="400"/>
 </p>
 
 <!-- 5. ABOUT ME -->
