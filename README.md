@@ -44,10 +44,16 @@
 
 😄 Fun fact: I'm a huge fan of bakso! 🍜
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+</div>
 
 <!-- 7. MY GITHUB STATS -->
+<h2 align="center">📊 My GitHub Stats:</h2>
 
-📊 My GitHub Stats:
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tghrsyahptra&layout=compact&theme=radical" alt="Top Languages" />
 <br/><br/>
