@@ -5,7 +5,11 @@
 <!-- 1. COOL HEADER IMAGE -->
 
 <p align="center">
-<img src="https://placehold.co/1200x400/1a1a1a/ffffff?text=Hello,+I'm+Teguh!&font=raleway" alt="Header banner"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
 </p>
 
 <!-- 2. TITLE AND SUBTITLE -->
@@ -24,7 +28,7 @@
 <!-- 4. FUNNY GIF -->
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52aG9tZ216a2NnY2gyb3NmM2V3b2Z1a21tZzZ0a2p4a3JpZ3Q5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif" alt="A cat typing on a laptop GIF" width="400"/>
+<img src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW52aG9tZ216a2NnY2gyb3NmM2V3b2Z1a21tZzZ0a2p4a3JpZ3Q5MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpYqx/giphy.gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1heTFwMm1xcnk3Y3g5bWZja2VhNmVpNDlmeXltdWRneGc4Nm41cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif)" alt="A cat typing on a laptop GIF" width="400"/>
 </p>
 
 <!-- 5. ABOUT ME -->
@@ -40,19 +44,6 @@
 
 😄 Fun fact: I'm a huge fan of bakso! 🍜
 
-<!-- 6. LANGUAGES & TOOLS I USE -->
-
-🛠️ Languages & Tools I Use:
-<p align="left">
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original-wordmark.svg" alt="dart" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a>
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a>
-<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-</p>
 
 <!-- 7. MY GITHUB STATS -->
 
@@ -68,12 +59,6 @@
 <!-- 8. FOOTER WITH CONTRIBUTION SNAKE -->
 
 <!-- Note: To make this work, you need to set up a GitHub Action to generate this snake animation. -->
-
-<!-- Search for "github-contribution-grid-snake" for a tutorial. -->
-
-<p align="center">
-<img src="https://github.com/tghrsyahptra/tghrsyahptra/blob/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation">
-</p>
 
 <!-- 9. GET IN TOUCH -->
 
